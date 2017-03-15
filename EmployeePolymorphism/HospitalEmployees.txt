@@ -1,0 +1,8 @@
+doctor	123221232	Susan	Mallery	pediatrics	yes
+Janitor	543434401	Clay	Jenner				no
+Nurse	543989849	David	Willis	yes
+Administrator	900349823	Betsy	Howard	21
+Doctor	112654532	Allen Konigsberg	oncology	no
+Janitor	542366650	Mary Mullins	yes
+Nurse 	231002398	David Willis	no
+Doctor	211154332	William Jefferson	psychiatry      yes
